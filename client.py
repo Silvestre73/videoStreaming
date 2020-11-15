@@ -1,6 +1,8 @@
 import socket
 from os import system
 
+# comentario
+
 def opcaoFilme():
     print('Escolha o filme\n')
     print('[1] Back to the Future (1985)')
